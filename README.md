@@ -2,10 +2,6 @@
 
 I’m Aayush, a problem solver by heart and a backend engineer by profession.
 
-## Latest Updates
-
-- 📘 Currently reading [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
-
 ## 💼 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=43A6C6)
@@ -28,6 +24,5 @@ I’m Aayush, a problem solver by heart and a backend engineer by profession.
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=43A6C6)
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=for-the-badge&logo=SonarQube&logoColor=white&color=43A6C6)
 
-
 ## 📫 Contact Info
-- You may drop me a mail at [aayush.209@hotmail.com](mailto:aayush.209@hotmail.com) or reach out to me on [LinkedIn](https://www.linkedin.com/in/aayush209)
+- You may drop me a mail at [aayush209gupta@gmail.com](mailto:aayush209gupta@gmail.com) or reach out to me on [LinkedIn](https://www.linkedin.com/in/aayush209)
